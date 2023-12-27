@@ -4,7 +4,7 @@ function App() {
   return (
     <div className="min-h-screen bg-gray-900 flex flex-col items-center justify-center relative px-4">
       <img
-        src="https://abs.twimg.com/favicons/twitter.3.ico"
+        src="https://docs.xclone.xyz/xlogo.png"
         className="w-12 h-12 rounded mb-3"
         alt=""
       />
